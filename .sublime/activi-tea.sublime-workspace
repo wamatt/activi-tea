@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgroun",
+				"background	filter: AlphaImageLoader [for IE PNGs]"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"fetch",
+				"Fetch: Manage remote files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 131.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Matt/Dropbox/Projects/activi-tea/.sublime/activi-tea",
+		"/Users/Matt/Dropbox/Projects/dotfiles-mathiasbynes/.bash_prompt",
+		"/Users/Matt/Dropbox/Projects/dotfiles/.sublime/dotfiles.sublime-project",
+		"/Users/Matt/Dropbox/Projects/dotfiles/home/.osx",
+		"/Users/Matt/Dropbox/Projects/helloworld/Procfile",
+		"/Users/Matt/Dropbox/Projects/dotfiles/home/.extra",
+		"/Users/Matt/Dropbox/Projects/dotfiles/home/.functions",
+		"/Users/Matt/Dropbox/Projects/leaderboard/leaderboard.",
+		"/Users/Matt/Dropbox/Projects/leaderboard/leaderboard",
+		"/Users/Matt/Dropbox/Projects/leaderboard/leaderboard.js",
+		"/Users/Matt/Dropbox/Projects/dotfiles-mathiasbynes/.extra",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Matt/Dropbox/Projects/tempy/hw.js",
+		"/Users/Matt/Dropbox/Projects/dotfiles/bin/therm",
+		"/Users/Matt/Dropbox/Projects/atiflash/firmware.bin",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Settings/Session.sublime_session",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/Espresso Soda.tmTheme.cache",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/Soda Light/Widget - Soda Light.stTheme",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/Espresso Soda.tmTheme",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/Matt/Dropbox/Projects/dotfiles/facefix.sublime-project",
+		"/Users/Matt/Dropbox/Projects/dotfiles/fixme.sublime-project",
+		"/Users/Matt/Dropbox/Projects/dotfiles/tmp",
+		"/Users/Matt/Dropbox/Projects/dotfiles-mathiasbynes/.brew",
+		"/usr/local/bin/colors",
+		"/Users/Matt/Dropbox/Projects/dotfiles/init/Mathias.terminal",
+		"/Users/Matt/Dropbox/Projects/dotfiles/init/Matt.terminal",
+		"/Users/Matt/.bash_profile",
+		"/Users/Matt/Dropbox/Projects/facefix/.git/COMMIT_EDITMSG",
+		"/Users/Matt/Dropbox/Projects/chrome-boilerplate/README",
+		"/Users/Matt/Dropbox/Projects/tagg.me/about.html",
+		"/etc/ppp/ip-up",
+		"/Users/Matt/ip-up",
+		"/Users/Matt/Dropbox/Projects/tagg.me/Procfile",
+		"/Users/Matt/Dropbox/Projects/tagg.me/client/wordplay.html",
+		"/Users/Matt/Downloads/fontello-2f65645c/css/fontello.css",
+		"/Users/Matt/Dropbox/Projects/test/README.MD",
+		"/Users/Matt/Dropbox/Projects/test/jquery.js",
+		"/Users/Matt/.gitconfig",
+		"/Users/Matt/Dropbox/Projects/test/.git/COMMIT_EDITMSG",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/Matt/Dropbox/Projects/from-scratch/index.html",
+		"/Users/Matt/Dropbox/Projects/etherpad-lite/bin/checkPad.js",
+		"/Users/Matt/Documents/Webafrica079.jpg",
+		"/Users/Matt/Documents/wsus.reg",
+		"/?",
+		"/Users/Matt/Documents/Invitation.msrcIncident",
+		"/Users/Matt/Documents/Fraudulent dispute form.doc",
+		"/Users/Matt/Documents/NetFlorist Flowers & Gifts - Send Flowers to South Africa - Flower delivery.pdf",
+		"/Users/Matt/Documents/2012_05_14_10_33_39.pdf",
+		"/Users/Matt/Ebooks/metadata.db",
+		"/Users/Matt/Desktop/OmniFocus.html",
+		"/Users/Matt/Dropbox/Projects/Blah blah/index.html",
+		"/Users/Matt/Dropbox/Projects/Tutorial-Test/test.js",
+		"/Users/Matt/Dropbox/Projects/Tutorial-Test/test.html",
+		"/Users/Matt/Dropbox/Projects/Userstyles/Tumblr.com/MattDash-Light.css",
+		"/Users/Matt/Dropbox/Projects/Facebook-Comments/cool.css",
+		"/Users/Matt/Dropbox/Projects/Greasemonkey/hello-world.user.js",
+		"/Users/Matt/Dropbox/Projects/Hello-World/testthing.js",
+		"/Users/Matt/Dropbox/Projects/javascript-patterns/object-creation-patterns/declaring-dependencies.html",
+		"/Users/Matt/Dropbox/Projects/Facebook-Comments/untitled.html",
+		"/Users/Matt/Dropbox/Projects/Tutorial-Test/irc.log",
+		"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"",
+			"/Users/Matt/Library/Application Support/Sublime Text 2/Packages/User",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prompt",
+			"git",
+			"gitignore",
+			"repo",
+			"node",
+			"WHITE",
+			"spotlight",
+			"dock",
+			"facefix",
+			"#7653C1",
+			"plist",
+			"F4FAFE",
+			"306F9F",
+			"font_face",
+			"font",
+			"bash_prompt",
+			"		<string>.osx</string>\n",
+			"filetypes",
+			"fileTypes",
+			"easy_install",
+			"Pygment",
+			"bash",
+			"font",
+			"Backgrou",
+			"ANSIWhiteColor",
+			"default",
+			"24",
+			"130",
+			"165",
+			"fav",
+			"Helvetica Neue",
+			"font-famil",
+			"font-familt",
+			"font",
+			"getElementById",
+			"showHiddenHalf",
+			"            </",
+			"charset",
+			">",
+			"!important"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Open Sans",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rea",
+				"/Users/Matt/Dropbox/Projects/test/README.MD"
+			],
+			[
+				"",
+				"/Users/Matt/Dropbox/Projects/from-scratch/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Matt/Dropbox/Projects/tagg.me/taggme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true
+}
